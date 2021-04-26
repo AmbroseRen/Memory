@@ -1,4 +1,4 @@
-# [灵丘民间故事歌谣谚语集成](https://github.com/folkstory/lingqiu-folk-story)
+# [Memory](https://github.com/AmbroseRen/Memory)
 
-[GitHub](https://github.com/folkstory/lingqiu-folk-story)
+[GitHub](https://github.com/AmbroseRen/Memory)
 [开始阅读](#序)
