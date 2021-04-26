@@ -1,37 +1,93 @@
-## Welcome to GitHub Pages@@
+* 一、序
+    * [序](序.md)
 
-You can use the [editor on GitHub](https://github.com/AmbroseRen/Memory/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* 二、生活部分
+    * [测试篇](生活部分/测试篇.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* 三、传说部分
+    * 人物传说
+        * [赵武灵王](传说部分/人物传说/赵武灵王.md)
 
-### Markdown
+    * 地方传说
+        * [灵丘县的来历](传说部分/地方传说/灵丘县的来历.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    * 动物传说
+        * [狍子的上唇为啥有道缝](传说部分/动物传说/狍子的上唇为啥有道缝.md)
 
-```markdown
-Syntax highlighted code block
+    * 风俗传说
+        * [“腊八人”的传说（之一）](传说部分/风俗传说/“腊八人”的传说（之一）.md)
 
-# Header 1
-## Header 2
-### Header 3
+* 四、故事部分
+    * 幻想故事
+        * [赊三与现二](故事部分/幻想故事/赊三与现二.md)
 
-- Bulleted
-- List
+    * 动物故事
+        * [蛤蟆和燕子](故事部分/动物故事/蛤蟆和燕子.md)
 
-1. Numbered
-2. List
+    * 鬼狐精怪故事
+        * [阎王设计拿彭松](故事部分/鬼狐精怪故事/阎王设计拿彭松.md)
 
-**Bold** and _Italic_ and `Code` text
+    * 生活故事
+        * [憨虎进城](故事部分/生活故事/憨虎进城.md)
 
-[Link](url) and ![Image](src)
-```
+    * 机智人物故事
+        * [王维买药](故事部分/机智人物故事/王维买药.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    * 笑话
+        * [媳妇分鸡](故事部分/笑话/媳妇分鸡.md)
 
-### Jekyll Themes
+    * 革命斗争故事
+        * [全国民兵战斗英雄刘九江的故事](故事部分/革命斗争故事/全国民兵战斗英雄刘九江的故事.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AmbroseRen/Memory/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    * 其他故事
+        * [梦先生传奇](故事部分/其他故事/梦先生传奇.md)
 
-### Support or Contact
+* 五、歌谣部分
+    * 劳动歌
+        * [打酸枣](歌谣部分/劳动歌/打酸枣.md)
+        * [摘花椒](歌谣部分/劳动歌/摘花椒.md)
+        * [交公粮](歌谣部分/劳动歌/交公粮.md)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    * 时政歌
+        * [灵丘是个好地方](歌谣部分/时政歌/灵丘是个好地方.md)
+        * 拜新年
+
+    * 仪式歌
+        * [念喜歌（新）](歌谣部分/仪式歌/念喜歌（新）.md)
+        * 念喜歌(旧）
+        * 酒歌五则
+        * 行酒令
+        * 行酒令
+
+    * 情歌
+        * [串河湾](歌谣部分/情歌/串河湾.md)
+        * 张生戏莺莺
+
+    * 生活歌
+        * [女儿经](歌谣部分/生活歌/女儿经.md)
+        * 媳妇想娘家
+
+    * 历史传说歌
+        * [三国志](歌谣部分/历史传说歌/三国志.md)
+        * 画扇面
+
+    * 儿歌
+        * [红公鸡](歌谣部分/儿歌/红公鸡.md)
+        * 财主家的四灰皮
+
+    * 其他
+        * [谝八树](歌谣部分/其他/谝八树.md)
+        * 对花
+
+    * 曲谱
+        * [打樱桃](歌谣部分/曲谱/打樱桃.md)
+        * 打樱桃
+
+* 六、谚语部分
+    * 谚语 1053 则
+
+* 七、后记
+    * [后记](后记.md)
+
+* 八、协议
+    * [《CC BY-NC-ND 4.0》](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-Hans)
